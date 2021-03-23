@@ -1,25 +1,28 @@
-<!-- --- -->
-<!-- { -->
-<!--   "type": "blog", -->
-<!--   "author": "Dillon Kearns", -->
-<!--   "title": "Hello `elm-pages`! 🚀", -->
-<!--   "description": "Here's an intro for my blog post to get you interested in reading more...", -->
-<!--   "image": "images/article-covers/hello.jpg", -->
-<!--   "published": "2019-09-21", -->
-<!-- } -->
-<!-- --- -->
+---
+{
+  "type": "blog",
+  "author": "Branquinho",
+  "title": "Como gerei esse website.",
+  "description": "How I can generated this website.",
+  "image": "images/article-covers/hello.jpg",
+  "published": "2021-03-23",
+}
+---
 
-<!-- Welcome to my blog! It was built with `elm-pages`! -->
+Welcome to my blog! It was built with `elm-pages`!
+
+Elm is the best language you ever dreamed of. Functional, statically and sanelly typed... Just wonderful.
+
+Take a look at this addition. Even my 7 years sister can understand it.
+
+```elm
+plus : number -> number -> number
+plus m n =
+    m + n
+```
 
 
-<!-- ```elm -->
-<!-- plus : number -> number -> number -->
-<!-- plus m n = -->
-<!--     m + n -->
-<!-- ``` -->
-
-
-
+	
 <!-- ## Hard coding {#hard-coding} -->
 
 
