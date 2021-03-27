@@ -24,26 +24,26 @@ Usaremos:
 
 <!--listend-->
 
-<!-- ```html -->
-<!-- <!DOCTYPE html> -->
-<!-- <html lang="pt-br"> -->
-<!-- 	<head> -->
-<!--     <meta charset="UTF-8"> -->
-<!--     <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-<!--     <link href="css/style.css" rel="stylesheet" type="text/css"> -->
-<!--     <link rel="icon" href="https://clojurescript.org/images/cljs-logo-icon-32.png"> -->
-<!--   </head> -->
-<!--   <body> -->
-<!--     <div id="app"> -->
-<!--       <h2>Recomendados</h2> -->
-<!--       <p><strong>Vídeos</strong> que <em>selecionamos</em> para você</p> -->
-<!--     </div> -->
-<!--     <script src="js/compiled/globo.js" type="text/javascript"></script> -->
-<!--   </body> -->
-<!-- </html> -->
-<!-- <div title="The Org mode homepage" style="color:red;"> -->
-<!-- <div></div> -->
-<!-- ``` -->
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="https://clojurescript.org/images/cljs-logo-icon-32.png">
+  </head>
+  <body>
+    <div id="app">
+      <h2>Recomendados</h2>
+      <p><strong>Vídeos</strong> que <em>selecionamos</em> para você</p>
+    </div>
+    <script src="js/compiled/globo.js" type="text/javascript"></script>
+  </body>
+</html>
+<div title="The Org mode homepage" style="color:red;">
+<div></div>
+```
 
 
 <!-- [Orgmode site](https://orgmode.org) -->
